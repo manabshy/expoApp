@@ -33,7 +33,7 @@ The Expo Demo App is built using Expo Cli and React-Native
    npm install
    ```
 
-### Start App
+### Build and Run App
      ```bash
-   npm run start
+   expo run start
    ```
